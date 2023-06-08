@@ -1,2 +1,2 @@
-# c-_practice
+# c++_practice
 c++刷题
